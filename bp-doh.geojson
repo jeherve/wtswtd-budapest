@@ -388,7 +388,9 @@
 		"properties" : {
 			"URL" : "http://www.szimpla.hu/en",
 			"marker-symbol" : "bar",
-			"name" : "Szimpla Kert"
+			"name" : "Szimpla Kert",
+			"address" : "Kazinczy utca 14",
+			"note" : "You will find this bar in all tourist guides; its atmosphere is unique, and while it is usually quite crowded and visited by more tourists than locals, it is a nice place to see, at least once. Arrive early and you can find seats and have a great chat with beers and a traditional Hungarian burger (beware, it is a big one!)"
 		}
 	},
 	{
@@ -403,7 +405,59 @@
 		"properties" : {
 			"URL" : "http://instant.co.hu/en",
 			"marker-symbol" : "bar",
-			"name" : "Instant"
+			"name" : "Instant",
+			"address" : "Nagymező utca 38",
+			"note" : "Ruin pub with a party place in the basement"
+		}
+	},
+	{
+		"geometry" : {
+			"coordinates" : [
+				19.05160,
+				47.49802
+			],
+			"type" : "Point"
+		},
+		"type" : "Feature",
+		"properties" : {
+			"URL" : "http://www.akvariumklub.hu/?lang=en",
+			"marker-symbol" : "bar",
+			"name" : "Akvárium Klub",
+			"address" : "Erzsébet tér"
+		}
+	},
+	{
+		"geometry" : {
+			"coordinates" : [
+				19.05551,
+				47.49806
+			],
+			"type" : "Point"
+		},
+		"type" : "Feature",
+		"properties" : {
+			"URL" : "http://www.ankerklub.hu/",
+			"marker-symbol" : "bar",
+			"name" : "Anker Klub",
+			"address" : "Anker köz 1-3",
+			"note" : "While this place is a bit less crowdy than the others, it is a nice place to have a drink and chat."
+		}
+	},
+	{
+		"geometry" : {
+			"coordinates" : [
+				19.06486,
+				47.50101
+			],
+			"type" : "Point"
+		},
+		"type" : "Feature",
+		"properties" : {
+			"URL" : "http://www.fogashaz.hu/",
+			"marker-symbol" : "bar",
+			"name" : "Fogasház",
+			"address" : "Akácfa utca 51",
+			"note" : "This bar is a typical ruin pub. It is also a nice place to chat, the music usually isn't too loud compare to other places."
 		}
 	},
 	{
@@ -433,7 +487,26 @@
 		"properties" : {
 			"URL" : "http://corvinteto.hu/en/programs",
 			"marker-symbol" : "music",
-			"name" : "Corvintető"
+			"name" : "Corvintető",
+			"address" : "Blaha Lujza tér 1-2",
+			"note" : "This club is situated on the top of an old shopping mall. Once you get to the top of the building (by the stairs, or with the elevator if it is open), you get to choose between a bar and house music, and the roof without music. It is nice, but in October it might not be a good idea! :) Since there are DJs every evening, you will have to pay a fee before to get in though."
+		}
+	},
+	{
+		"geometry" : {
+			"coordinates" : [
+				19.06273,
+				47.47647
+			],
+			"type" : "Point"
+		},
+		"type" : "Feature",
+		"properties" : {
+			"URL" : "http://www.a38.hu/en/",
+			"marker-symbol" : "music",
+			"name" : "A38",
+			"address" : "Petőfi bridge, Buda side",
+			"note" : "A bar on a boat. Concerts almost every night. Great atmosphere. Check their websites for the program before you go there."
 		}
 	},
 	{
@@ -447,7 +520,9 @@
 		"type" : "Feature",
 		"properties" : {
 			"marker-symbol" : "rail",
-			"name" : "Nyugati Station"
+			"name" : "Nyugati Station",
+			"address" : "Nyugati Tér",
+			"note" : "It is the Western railway station, designed by Eiffel. It has this old communist style to it, make sure you go inside, you will take great pictures!"
 		}
 	},
 	{
@@ -476,7 +551,9 @@
 		"properties" : {
 			"marker-symbol" : "swimming",
 			"marker-color" : "#78c8e6",
-			"name" : "Gellért Baths"
+			"name" : "Gellért Baths",
+			"address" : "Kelenhegyi út 4",
+			"note" : "Not as big as Szechenyi, but nice anyway!"
 		}
 	},
 	{
@@ -491,7 +568,10 @@
 		"properties" : {
 			"marker-symbol" : "swimming",
 			"marker-color" : "#78c8e6",
-			"name" : "Széchenyi Baths"
+			"name" : "Széchenyi Baths",
+			"address" : "Állatkerti körút 9-11",
+			"note" : "Not to be missed, plan at least 3 hours to enjoy the outside baths, as well as the saunas, hammams and inside baths. 
+Prefer to go there in the afternoon, around 5PM, so that you experience bathing at night. The lightings and the hot water are quite an experience then!"
 		}
 	},
 	{
@@ -504,8 +584,254 @@
 		},
 		"type" : "Feature",
 		"properties" : {
-			"name" : "Nagy Csarnok",
-			"marker-symbol" : "town-hall"
+			"name" : "Nagy Csarnok / Great Market Hall",
+			"marker-symbol" : "town-hall",
+			"address" : "Vámház körút 1",
+			"note" : "It is a nice place if you are looking for Hungarian food and drinks. If you're hungry, you'll find small restaurants on the top floor."
+		}
+	},
+	{
+		"geometry" : {
+			"coordinates" : [
+				19.04675,
+				47.50700
+			],
+			"type" : "Point"
+		},
+		"type" : "Feature",
+		"properties" : {
+			"name" : "Hungarian Parliament Building",
+			"marker-symbol" : "monument",
+			"address" : "Kossuth Lajos tér 1-3"
+		}
+	},
+	{
+		"geometry" : {
+			"coordinates" : [
+				19.03896,
+				47.50625
+			],
+			"type" : "Point"
+		},
+		"type" : "Feature",
+		"properties" : {
+			"name" : "Batthyány tér",
+			"marker-symbol" : "camera",
+			"address" : "Batthyány tér",
+			"note" : "The place itself is nothing special, but you'll get a great view over the parliament on the other side of the Danube. Get there with the Subway line 2."
+		}
+	},
+	{
+		"geometry" : {
+			"coordinates" : [
+				19.04013,
+				47.49830
+			],
+			"type" : "Point"
+		},
+		"type" : "Feature",
+		"properties" : {
+			"name" : "Clark Ádám Square",
+			"marker-symbol" : "camera",
+			"address" : "Clark Ádám Tér",
+			"note" : "From there, you can climb up to the castle and enjoy the view. Take the stairs instead of the funicular, it's free and you'll have time to take pictures!"
+		}
+	},
+	{
+		"geometry" : {
+			"coordinates" : [
+				19.03405,
+				47.50234
+			],
+			"type" : "Point"
+		},
+		"type" : "Feature",
+		"properties" : {
+			"name" : "Fisherman's Bastion",
+			"URL" : "http://fishermansbastion.com/",
+			"marker-symbol" : "monument",
+			"address" : "Szentháromság tér 5",
+			"note" : "From there, you'll get a great view over the city and the parliament."
+		}
+	},
+	{
+		"geometry" : {
+			"coordinates" : [
+				19.07797,
+				47.51423
+			],
+			"type" : "Point"
+		},
+		"type" : "Feature",
+		"properties" : {
+			"name" : "Heroes square",
+			"marker-symbol" : "monument",
+			"address" : "Hősök tere",
+			"note" : "One of the most popular monuments of Budapest. You can't miss that one!"
+		}
+	},
+	{
+		"geometry" : {
+			"coordinates" : [
+				19.05399,
+				47.50089
+			],
+			"type" : "Point"
+		},
+		"type" : "Feature",
+		"properties" : {
+			"name" : "Saint Stephen's Basilica",
+			"marker-symbol" : "religious-christian",
+			"address" : "Szent Istvan Tér",
+			"note" : "It's worth paying to climb at the top. You'll get a nice view of the city center."
+		}
+	},
+	{
+		"geometry" : {
+			"coordinates" : [
+				19.06006,
+				47.49591
+			],
+			"type" : "Point"
+		},
+		"type" : "Feature",
+		"properties" : {
+			"name" : "Dohány Street Synagogue",
+			"URL" : "http://en.wikipedia.org/wiki/Doh%C3%A1ny_Street_Synagogue",
+			"marker-symbol" : "religious-jewish",
+			"address" : "Dohány utca 2",
+			"note" : "Largest synagogue in Europe, and 3rd largest in the world."
+		}
+	},
+	{
+		"geometry" : {
+			"coordinates" : [
+				19.04343,
+				47.51445
+			],
+			"type" : "Point"
+		},
+		"type" : "Feature",
+		"properties" : {
+			"name" : "Nice point of view over the river and the Parliament",
+			"marker-symbol" : "camera",
+			"address" : "Margit Hid",
+			"note" : "Get off the tram in the middle of the bridge. That's also the entrance of Margaret island."
+		}
+	},
+	{
+		"geometry" : {
+			"coordinates" : [
+				19.04401,
+				47.51853
+			],
+			"type" : "Point"
+		},
+		"type" : "Feature",
+		"properties" : {
+			"name" : "Margaret Island",
+			"marker-symbol" : "pitch",
+			"address" : "Margit-sziget",
+			"note" : "Cars are forbidden on the island, so it's a nice place to go for a walk or a run if you have enough of the city! There is a small zoo on the island, as well as a few bars. There is also a 5350 metre long, rubber-coated running track all around the island."
+		}
+	},
+	{
+		"geometry" : {
+			"coordinates" : [
+				19.06540,
+				47.50687
+			],
+			"type" : "Point"
+		},
+		"type" : "Feature",
+		"properties" : {
+			"name" : "Terror Háza Múzeum",
+			"URL" : "http://terrorhaza.hu",
+			"marker-symbol" : "museum",
+			"address" : "Andrássy út 60",
+			"note" : "This museum retraces the history of Hungary during and after WW2. Intersting to get a view of the communist area and the Nazi occupation. Plan for a few hours, there is a lot to see."
+		}
+	},
+	{
+		"geometry" : {
+			"coordinates" : [
+				19.06183,
+				47.49106
+			],
+			"type" : "Point"
+		},
+		"type" : "Feature",
+		"properties" : {
+			"name" : "Hungarian National museum",
+			"URL" : "http://hnm.hu",
+			"marker-symbol" : "museum",
+			"address" : "Múzeum körút 14-16",
+			"note" : "Temporary exhibitions. Right now, Hungarian painting in the 18th and 19th centuries."
+		}
+	},
+	{
+		"geometry" : {
+			"coordinates" : [
+				19.04624,
+				47.48682
+			],
+			"type" : "Point"
+		},
+		"type" : "Feature",
+		"properties" : {
+			"name" : "Citadella",
+			"URL" : "http://www.citadella.hu",
+			"marker-symbol" : "monument",
+			"address" : "Citadella sétány 1",
+			"note" : "Great panorama over the city. it can be cold up there, so don't go there if it's windy! You can take the bus to get there, but I'd suggest taking the stairs starting at Gellért Tér and climbing the hill, you can stop and take nice pictures on the way. Count 15-20 minutes to get to the top."
+		}
+	},
+	{
+		"geometry" : {
+			"coordinates" : [
+				19.04778,
+				47.49667
+			],
+			"type" : "Point"
+		},
+		"type" : "Feature",
+		"properties" : {
+			"name" : "Nice point of view over the Danube and the Castle",
+			"marker-symbol" : "camera",
+			"address" : "Vigadó tér 2",
+			"note" : "You want to come here during the night. The castle looks great in the evening, and that's the best point of view!"
+		}
+	},
+	{
+		"geometry" : {
+			"coordinates" : [
+				19.07085,
+				47.47128
+			],
+			"type" : "Point"
+		},
+		"type" : "Feature",
+		"properties" : {
+			"name" : "National Theatre",
+			"URL" : "http://nemzetiszinhaz.hu",
+			"marker-symbol" : "theatre",
+			"address" : "Bajor Gizi park 1"
+		}
+	},
+	{
+		"geometry" : {
+			"coordinates" : [
+				19.05139,
+				47.50446
+			],
+			"type" : "Point"
+		},
+		"type" : "Feature",
+		"properties" : {
+			"name" : "Embassy of the United States",
+			"marker-symbol" : "embassy",
+			"address" : "Szabadság tér 12",
+			"note" : "Just in case! :)"
 		}
 	}
 	]
