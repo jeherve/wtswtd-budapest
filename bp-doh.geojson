@@ -91,6 +91,25 @@
 		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
+				19.05929,
+				47.49737
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://www.facebook.com/sonkapult",
+			"marker-symbol" : "bakery",
+			"marker-color" : "#ffba00",
+			"name" : "Sonkapult - Reggeliző és Kávézó",
+			"phone" : "00 36 30 713 1958",
+			"address" : "Rumbach Sebestyén utca 7",
+			"note" : "Sandwich Place and Breakfast Spot. Mon - Wed: 8:00 am - 6:00 pm, Thu - Fri: 8:00 am - 12:00 am, Sat: 10:00 am - 12:00 am"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
 				19.0611290931702,
 				47.5040549497634
 			],
@@ -103,6 +122,63 @@
 			"name" : "Ring Café",
 			"address" : "Andrássy út 38",
 			"note" : "Great burgers"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.06062,
+				47.50482
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://www.facebook.com/caledoniabudapest",
+			"marker-symbol" : "restaurant",
+			"marker-color" : "#4cb420",
+			"name" : "The Caledonia Budapest Scottish Pub & Shop",
+			"address" : "Mozsár u. 9",
+			"phone" : "00 36 1 311 7611",
+			"note" : "Great burgers"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.05099,
+				47.50009
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "http://burgerandlove.hu",
+			"marker-symbol" : "fast-food",
+			"marker-color" : "#4cb420",
+			"name" : "Burger & Love",
+			"address" : "Október 6. u. 6",
+			"phone" : "00 36 70 333 2150",
+			"note" : "Great burgers"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.05101,
+				47.50135
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "http://www.knrdy.com/",
+			"marker-symbol" : "restaurant",
+			"marker-color" : "#4cb420",
+			"name" : "KNRDY",
+			"address" : "Október 6. u. 15",
+			"phone" : "00 36 1 788 1685",
+			"note" : "Steakhouse. Great burgers"
 		}
 	},
 	{
@@ -192,6 +268,24 @@
 			"marker-color" : "#ffba00",
 			"name" : "The Donut Library",
 			"note" : "You like reading? You like donuts? Welcome to the Donut Library where you can enjoy your favorite sugar-bomb treat while reading a book from the shelves (in Hungarian only). My recommendation: the pistacchio donut."
+		}
+	},
+	{
+		"type" : "Feature",
+		 "geometry" : {
+			"coordinates" : [
+				19.06180,
+				47.50215
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://www.facebook.com/fankidonuts/",
+			"marker-symbol" : "bakery",
+			"marker-color" : "#ffba00",
+			"name" : "Fánki Donuts",
+			"address" : "Nagymező u. 6",
+			"note" : "Great donuts"
 		}
 	},
 	{
@@ -300,7 +394,61 @@
 			"note" : "A popular chain of hummus restaurants around Budapest. Friendly staff and good food for affordable prices. All restaurants more or less share the same menu but some are vegetarian-only. My recommendation: Shakshuka (with mergez sausage if that's your thing)"
 		}
 	},
-	 {
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.05204,
+				47.49548
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "http://fruccola.hu",
+			"marker-symbol" : "restaurant",
+			"marker-color" : "#4cb420",
+			"name" : "Fruccola",
+			"address" : "Kristóf tér 3",
+			"note" : "Salad Place and Juice Bar"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.07048,
+				47.50515
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://www.facebook.com/pages/Zeller-Bistro/486188564780604",
+			"marker-symbol" : "restaurant",
+			"marker-color" : "#4cb420",
+			"name" : "Zeller Bistro",
+			"address" : "Izabella u. 38",
+			"phone" : "00 36 30 651 0880"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.07677,
+				47.51718
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"marker-symbol" : "restaurant",
+			"marker-color" : "#4cb420",
+			"name" : "Bagolyvár Étterem",
+			"address" : "Állatkerti út 2",
+			"phone" : "00 36 1 468 3110",
+			"note" : "Hungarian style restaurant. Ribs or boneless drumsticks are great"
+		}
+	},
+	{
 	 	"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
@@ -526,6 +674,24 @@
 			"name" : "Fogasház",
 			"address" : "Akácfa utca 51",
 			"note" : "This bar is a typical ruin pub. It is also a nice place to chat, the music usually isn't too loud compare to other places."
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.06114,
+				47.50104
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "http://facebook.com/kadarkabar/",
+			"marker-symbol" : "bar",
+			"marker-color" : "#005684",
+			"name" : "Kadarka Bár",
+			"address" : "Király u. 42",
+			"note" : "Wine Bar, Wine Shop, and Winery."
 		}
 	},
 	{
