@@ -94,30 +94,53 @@
 	{
 		"geometry" : {
 			"coordinates" : [
-				19.0586829185486,
-				47.5248445882305
-			],
-			"type" : "Point"
-		 },
-		"type" : "Feature",
-		"properties" : {
-			"marker-symbol" : "bakery",
-			"name" : "Numan Pékség"
-		}
-	},
-	{
-		"geometry" : {
-			"coordinates" : [
-				19.0770399570465,
-				47.5254386638712
+				19.06131,
+				47.49898
 			],
 			"type" : "Point"
 		},
 		"type" : "Feature",
 		"properties" : {
-			"URL" : "http://www.retesbolt.eu/",
-			"marker-symbol" : "bakery",
-			"name" : "Rétesbolt"
+			"URL" : "https://kolevesvendeglo.hu/",
+			"marker-symbol" : "restaurant",
+			"name" : "Kőleves Vendéglő",
+			"address" : "Kazinczy utca 37-41"
+		}
+	},
+	{
+		"geometry" : {
+			"coordinates" : [
+				19.05942,
+				47.49847
+			],
+			"type" : "Point"
+		},
+		"type" : "Feature",
+		"properties" : {
+			"URL" : "http://spilerbp.hu/",
+			"marker-symbol" : "fast-food",
+			"name" : "Spíler BistroPub",
+			"address" : "Gozsdu udvar",
+			"note" : "Great burgers. Booking only from Sun to Wed.",
+			"phone" : "00 36 1 878 1320"
+		}
+	},
+	{
+		 "geometry" : {
+			"coordinates" : [
+				19.05927,
+				47.49056
+			],
+			"type" : "Point"
+		},
+		"type" : "Feature",
+		"properties" : {
+			"URL" : "https://www.facebook.com/budapestbagel",
+			"marker-symbol" : "restaurant",
+			"name" : "Budapest Bagel",
+			"address" : "Kecskeméti u. 3",
+			"phone" : "00 36 30 633 3608",
+			"note" : "Good bagels. Open from noon."
 		}
 	},
 	{
