@@ -13,6 +13,7 @@
 		"properties" : {
 			"URL" : "http://www.mlinar.hr/en/madarska/",
 			"marker-symbol" : "bakery",
+			"marker-color" : "#ffba00",
 			"name" : "Mlinar"
 		}
 	},
@@ -28,6 +29,7 @@
 		"properties" : {
 			"URL" : "http://www.cserpestejivo.hu/index-en.html",
 			"marker-symbol" : "bakery",
+			"marker-color" : "#ffba00",
 			"name" : "Cserpes Tejívó"
 		}
 	},
@@ -45,21 +47,6 @@
 			"marker-symbol" : "restaurant",
 			"name" : "Iguana"
 			}
-	},
-	{
-		"geometry" : {
-			"coordinates" : [
-				19.0321236848831,
-				47.5284668961106
-			],
-			"type" : "Point"
-		},
-		"type" : "Feature",
-		"properties" : {
-			"URL" : "http://daubnercukraszda.hu/",
-			"marker-symbol" : "bakery",
-			"name" : "Daubner"
-		}
 	},
 	{
 		"geometry" : {
@@ -155,6 +142,7 @@
 		"properties" : {
 			"URL" : "https://www.facebook.com/thedonutlibrary",
 			"marker-symbol" : "bakery",
+			"marker-color" : "#ffba00",
 			"name" : "The Donut Library"
 		}
 	},
@@ -186,20 +174,6 @@
 			"URL" : "https://www.facebook.com/Kispiac",
 			"marker-symbol" : "restaurant",
 			"name" : "Kispiac Bistro"
-		}
-	},
-	{
-		"geometry" : {
-			"coordinates" : [
-				19.0575778484344,
-				47.4954185611124
-			],
-			"type" : "Point"
-		},
-		"type" : "Feature",
-		"properties" : {
-			"URL" : "http://choxolat.hu/english.html",
-			"name" : "Azték Choxolat"
 		}
 	},
 	{
@@ -259,6 +233,7 @@
 		"properties" : {
 			"URL" : "http://bitehungary.com",
 			"marker-symbol" : "bakery",
+			"marker-color" : "#ffba00",
 			"name" : "Bite"
 		}
 	},
@@ -274,6 +249,7 @@
 		"properties" : {
 			"URL" : "http://www.ladelizia.hu/eng/",
 			"marker-symbol" : "bakery",
+			"marker-color" : "#ffba00",
 			"name" : "La Delizia"
 		}
 	},
@@ -318,6 +294,7 @@
 		"properties" : {
 			"URL" : "http://www.sugarshop.hu/index-en.html",
 			"marker-symbol" : "bakery",
+			"marker-color" : "#ffba00",
 			"name" : "Sugar!"
 		}
 	},
@@ -348,6 +325,7 @@
 		"properties" : {
 			"URL" : "http://zazzi.hu/index.php/en/",
 			"marker-symbol" : "bakery",
+			"marker-color" : "#ffba00",
 			"name" : "Zazzi"
 		}
 	},
