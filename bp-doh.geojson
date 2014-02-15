@@ -415,6 +415,7 @@
 		"properties" : {
 			"URL" : "http://400bar.hu/etlap/",
 			"marker-symbol" : "bar",
+			"marker-color" : "#005684",
 			"name" : "400",
 			"address" : "Kazinczy utca 52/b",
 			"phone" : "00 36 20 776 0765",
@@ -433,6 +434,7 @@
 		"properties" : {
 			"URL" : "http://www.szimpla.hu/en",
 			"marker-symbol" : "bar",
+			"marker-color" : "#005684",
 			"name" : "Szimpla Kert",
 			"address" : "Kazinczy utca 14",
 			"note" : "You will find this bar in all tourist guides; its atmosphere is unique, and while it is usually quite crowded and visited by more tourists than locals, it is a nice place to see, at least once. Arrive early and you can find seats and have a great chat with beers and a traditional Hungarian burger (beware, it is a big one!)"
@@ -450,6 +452,7 @@
 		"properties" : {
 			"URL" : "http://instant.co.hu/en",
 			"marker-symbol" : "bar",
+			"marker-color" : "#005684",
 			"name" : "Instant",
 			"address" : "Nagymező utca 38",
 			"note" : "Ruin pub with a party place in the basement"
@@ -467,6 +470,7 @@
 		"properties" : {
 			"URL" : "http://www.akvariumklub.hu/?lang=en",
 			"marker-symbol" : "bar",
+			"marker-color" : "#005684",
 			"name" : "Akvárium Klub",
 			"address" : "Erzsébet tér"
 		}
@@ -483,6 +487,7 @@
 		"properties" : {
 			"URL" : "http://www.ankerklub.hu/",
 			"marker-symbol" : "bar",
+			"marker-color" : "#005684",
 			"name" : "Anker Klub",
 			"address" : "Anker köz 1-3",
 			"note" : "While this place is a bit less crowdy than the others, it is a nice place to have a drink and chat."
@@ -500,6 +505,7 @@
 		"properties" : {
 			"URL" : "http://www.fogashaz.hu/",
 			"marker-symbol" : "bar",
+			"marker-color" : "#005684",
 			"name" : "Fogasház",
 			"address" : "Akácfa utca 51",
 			"note" : "This bar is a typical ruin pub. It is also a nice place to chat, the music usually isn't too loud compare to other places."
@@ -517,6 +523,7 @@
 		"properties" : {
 			"URL" : "http://www.hellobabybar.hu/",
 			"marker-symbol" : "bar",
+			"marker-color" : "#005684",
 			"name" : "Hello Baby"
 		}
 	},
@@ -532,6 +539,7 @@
 		"properties" : {
 			"URL" : "http://corvinteto.hu/en/programs",
 			"marker-symbol" : "music",
+			"marker-color" : "#005684",
 			"name" : "Corvintető",
 			"address" : "Blaha Lujza tér 1-2",
 			"note" : "This club is situated on the top of an old shopping mall. Once you get to the top of the building (by the stairs, or with the elevator if it is open), you get to choose between a bar and house music, and the roof without music. It is nice, but in October it might not be a good idea! :) Since there are DJs every evening, you will have to pay a fee before to get in though."
@@ -549,6 +557,7 @@
 		"properties" : {
 			"URL" : "http://www.a38.hu/en/",
 			"marker-symbol" : "music",
+			"marker-color" : "#005684",
 			"name" : "A38",
 			"address" : "Petőfi bridge, Buda side",
 			"note" : "A bar on a boat. Concerts almost every night. Great atmosphere. Check their websites for the program before you go there."
@@ -565,6 +574,7 @@
 		"type" : "Feature",
 		"properties" : {
 			"marker-symbol" : "rail",
+			"marker-color" : "#2ea2cc",
 			"name" : "Nyugati Station",
 			"address" : "Nyugati Tér",
 			"note" : "It is the Western railway station, designed by Eiffel. It has this old communist style to it, make sure you go inside, you will take great pictures!"
@@ -581,6 +591,7 @@
 		"type" : "Feature",
 		"properties" : {
 			"marker-symbol" : "airport",
+			"marker-color" : "#2ea2cc",
 			"name" : "Airport"
 		}
 	},
@@ -631,6 +642,7 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 		"properties" : {
 			"name" : "Nagy Csarnok / Great Market Hall",
 			"marker-symbol" : "town-hall",
+			"marker-color" : "#2ea2cc",
 			"address" : "Vámház körút 1",
 			"note" : "It is a nice place if you are looking for Hungarian food and drinks. If you're hungry, you'll find small restaurants on the top floor. Closed on Sundays and only opens till 3pm on Saturdays (wekkday opening hours are 6am - 5pm)"
 		}
@@ -647,6 +659,7 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 		"properties" : {
 			"name" : "Hungarian Parliament Building",
 			"marker-symbol" : "monument",
+			"marker-color" : "#2ea2cc",
 			"address" : "Kossuth Lajos tér 1-3"
 		}
 	},
@@ -662,6 +675,7 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 		"properties" : {
 			"name" : "Batthyány tér",
 			"marker-symbol" : "camera",
+			"marker-color" : "#2ea2cc",
 			"address" : "Batthyány tér",
 			"note" : "The place itself is nothing special, but you'll get a great view over the parliament on the other side of the Danube. Get there with the Subway line 2."
 		}
@@ -678,6 +692,7 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 		"properties" : {
 			"name" : "Clark Ádám Square",
 			"marker-symbol" : "camera",
+			"marker-color" : "#2ea2cc",
 			"address" : "Clark Ádám Tér",
 			"note" : "From there, you can climb up to the castle and enjoy the view. Take the stairs instead of the funicular, it's free and you'll have time to take pictures!"
 		}
@@ -695,6 +710,7 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 			"name" : "Fisherman's Bastion",
 			"URL" : "http://fishermansbastion.com/",
 			"marker-symbol" : "monument",
+			"marker-color" : "#2ea2cc",
 			"address" : "Szentháromság tér 5",
 			"note" : "From there, you'll get a great view over the city and the parliament."
 		}
@@ -711,6 +727,7 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 		"properties" : {
 			"name" : "Heroes square",
 			"marker-symbol" : "monument",
+			"marker-color" : "#2ea2cc",
 			"address" : "Hősök tere",
 			"note" : "One of the most popular monuments of Budapest. You can't miss that one!"
 		}
@@ -727,6 +744,7 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 		"properties" : {
 			"name" : "Saint Stephen's Basilica",
 			"marker-symbol" : "religious-christian",
+			"marker-color" : "#2ea2cc",
 			"address" : "Szent Istvan Tér",
 			"note" : "It's worth paying to climb at the top. You'll get a nice view of the city center."
 		}
@@ -744,6 +762,7 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 			"name" : "Dohány Street Synagogue",
 			"URL" : "http://en.wikipedia.org/wiki/Doh%C3%A1ny_Street_Synagogue",
 			"marker-symbol" : "religious-jewish",
+			"marker-color" : "#2ea2cc",
 			"address" : "Dohány utca 2",
 			"note" : "Largest synagogue in Europe, and 3rd largest in the world."
 		}
@@ -760,6 +779,7 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 		"properties" : {
 			"name" : "Nice point of view over the river and the Parliament",
 			"marker-symbol" : "camera",
+			"marker-color" : "#2ea2cc",
 			"address" : "Margit Hid",
 			"note" : "Get off the tram in the middle of the bridge. That's also the entrance of Margaret island."
 		}
@@ -776,6 +796,7 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 		"properties" : {
 			"name" : "Margaret Island",
 			"marker-symbol" : "pitch",
+			"marker-color" : "#2ea2cc",
 			"address" : "Margit-sziget",
 			"note" : "Cars are forbidden on the island, so it's a nice place to go for a walk or a run if you have enough of the city! There is a small zoo on the island, as well as a few bars. There is also a 5350 metre long, rubber-coated running track all around the island."
 		}
@@ -793,6 +814,7 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 			"name" : "Terror Háza Múzeum",
 			"URL" : "http://terrorhaza.hu",
 			"marker-symbol" : "museum",
+			"marker-color" : "#2ea2cc",
 			"address" : "Andrássy út 60",
 			"note" : "This museum retraces the history of Hungary during and after WW2. Intersting to get a view of the communist area and the Nazi occupation. Plan for a few hours, there is a lot to see."
 		}
@@ -810,6 +832,7 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 			"name" : "Hungarian National museum",
 			"URL" : "http://hnm.hu",
 			"marker-symbol" : "museum",
+			"marker-color" : "#2ea2cc",
 			"address" : "Múzeum körút 14-16",
 			"note" : "Temporary exhibitions. Right now, Hungarian painting in the 18th and 19th centuries."
 		}
@@ -827,6 +850,7 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 			"name" : "Citadella",
 			"URL" : "http://www.citadella.hu",
 			"marker-symbol" : "monument",
+			"marker-color" : "#2ea2cc",
 			"address" : "Citadella sétány 1",
 			"note" : "Great panorama over the city. it can be cold up there, so don't go there if it's windy! You can take the bus to get there, but I'd suggest taking the stairs starting at Gellért Tér and climbing the hill, you can stop and take nice pictures on the way. Count 15-20 minutes to get to the top."
 		}
@@ -843,6 +867,7 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 		"properties" : {
 			"name" : "Nice point of view over the Danube and the Castle",
 			"marker-symbol" : "camera",
+			"marker-color" : "#2ea2cc",
 			"address" : "Vigadó tér 2",
 			"note" : "You want to come here during the night. The castle looks great in the evening, and that's the best point of view!"
 		}
@@ -860,6 +885,7 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 			"name" : "National Theatre",
 			"URL" : "http://nemzetiszinhaz.hu",
 			"marker-symbol" : "theatre",
+			"marker-color" : "#2ea2cc",
 			"address" : "Bajor Gizi park 1"
 		}
 	},
@@ -875,6 +901,7 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 		"properties" : {
 			"name" : "Embassy of the United States",
 			"marker-symbol" : "embassy",
+			"marker-color" : "#f1831e",
 			"address" : "Szabadság tér 12",
 			"note" : "Just in case! :)"
 		}
