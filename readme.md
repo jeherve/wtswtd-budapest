@@ -1,6 +1,6 @@
-# Budapest DOH meetup
+# What to see, what to do in Budapest?
 
-<img src="https://travis-ci.org/jeherve/bp-doh-meetup">
+<img src="https://travis-ci.org/jeherve/wtswtd-budapest">
 
 
 ### A list of things to do, and places to go in Budapest
