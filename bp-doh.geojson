@@ -14,7 +14,8 @@
 			"URL" : "http://www.mlinar.hr/en/madarska/",
 			"marker-symbol" : "bakery",
 			"marker-color" : "#ffba00",
-			"name" : "Mlinar"
+			"name" : "Mlinar",
+			"note" : "A newly-opened chain of bakeries from Croatia. My recommendation: Meat (or fresh cheese) burek with a yogurt drink. A tasty specialty from the Balkans."
 		}
 	},
 	{
@@ -30,23 +31,9 @@
 			"URL" : "http://www.cserpestejivo.hu/index-en.html",
 			"marker-symbol" : "bakery",
 			"marker-color" : "#ffba00",
-			"name" : "Cserpes Tejívó"
+			"name" : "Cserpes Tejívó",
+			"note" : "Cserpes is a famous dairy producers that supply many shops and restaurants in Budapest. This tejívó place also serves delicious and cheap sandwiches. My recommendation: Mangalica sausage sandwich and a Cocoa Snail (kakaós csiga) for dessert."
 		}
-	},
-	{
-		"geometry" : {
-			"coordinates" : [
-				19.0490645170212,
-				47.5045079313556
-			],
-			"type" : "Point"
-			},
-		"type" : "Feature",
-		"properties" : {
-			"URL" : "http://www.iguana.hu/pages.php?aid=4&LangID=2",
-			"marker-symbol" : "restaurant",
-			"name" : "Iguana"
-			}
 	},
 	{
 		"geometry" : {
@@ -60,7 +47,9 @@
 		"properties" : {
 			"URL" : "http://ringcafe.hu/",
 			"marker-symbol" : "restaurant",
-			"name" : "Ring Café"
+			"name" : "Ring Café",
+			"address" : "Andrássy út 38",
+			"note" : "Great burgers"
 		}
 	},
 	{
@@ -75,7 +64,8 @@
 		"properties" : {
 			"URL" : "https://www.facebook.com/thebigfish.hu",
 			"marker-symbol" : "restaurant",
-			"name" : "Big Fish"
+			"name" : "Big Fish",
+			"note" : "Seafood restaurant with high quality products. Pricy."
 		}
 	},
 	{
@@ -143,7 +133,8 @@
 			"URL" : "https://www.facebook.com/thedonutlibrary",
 			"marker-symbol" : "bakery",
 			"marker-color" : "#ffba00",
-			"name" : "The Donut Library"
+			"name" : "The Donut Library",
+			"note" : "You like reading? You like donuts? Welcome to the Donut Library where you can enjoy your favorite sugar-bomb treat while reading a book from the shelves (in Hungarian only). My recommendation: the pistacchio donut."
 		}
 	},
 	{
@@ -158,7 +149,9 @@
 		"properties" : {
 			"URL" : "https://www.facebook.com/cafepaninibudapest",
 			"marker-symbol" : "restaurant",
-			"name" : "Panini Café"
+			"name" : "Panini Café",
+			"address" : "Radnóti Miklós u. 45",
+			"note" : "A small restaurant on the banks of the Danube. Ideal for a quick toasted sandwich or a nice brunch. They have vegan meals."
 		}
 	},
 	{
@@ -173,7 +166,8 @@
 		"properties" : {
 			"URL" : "https://www.facebook.com/Kispiac",
 			"marker-symbol" : "restaurant",
-			"name" : "Kispiac Bistro"
+			"name" : "Kispiac Bistro",
+			"note" : "Located next to the market on Hold utca. Very good meat selection. Friendly mom-and-pop atmosphere but very small."
 		}
 	},
 	{
@@ -188,14 +182,15 @@
 		"properties" : {
 			"URL" : "http://parperckrumpli.hu/etlap/index.html",
 			"marker-symbol" : "fast-food",
-			"name" : "Pár Perc Krumpli"
+			"name" : "Pár Perc Krumpli",
+			"note" : "The restaurant is almost litteraly a hole in the wall but don't let it fool you. Its Belgian-style French-fries are one of the best in Budapest. Sadly, the rest of its offerings (like the burgers) isn't quite as good."
 		}
 	},
 	{
 		"geometry" : {
 			"coordinates" : [
-				19.0591979026794,
-				47.4907029210344
+				19.05454,
+				47.50791
 			],
 			"type" : "Point"
 		},
@@ -203,7 +198,43 @@
 		"properties" : {
 			"URL" : "http://www.hummusbar.hu/eng/our-restaurants/",
 			"marker-symbol" : "restaurant",
-			"name" : "Hummus Bar"
+			"name" : "Hummus Bar",
+			"address" : "Alkotmány u. 20",
+			"note" : "A popular chain of hummus restaurants around Budapest. Friendly staff and good food for affordable prices. All restaurants more or less share the same menu but some are vegetarian-only. My recommendation: Shakshuka (with mergez sausage if that's your thing)"
+		}
+	},
+	{
+		"geometry" : {
+			"coordinates" : [
+				19.06185,
+				47.49705
+			],
+			"type" : "Point"
+		},
+		"type" : "Feature",
+		"properties" : {
+			"URL" : "http://www.hummusbar.hu/eng/our-restaurants/",
+			"marker-symbol" : "restaurant",
+			"name" : "Hummus Bar",
+			"address" : "Wesselényi-Síp str. corner",
+			"note" : "A popular chain of hummus restaurants around Budapest. Friendly staff and good food for affordable prices. All restaurants more or less share the same menu but some are vegetarian-only. My recommendation: Shakshuka (with mergez sausage if that's your thing)"
+		}
+	},
+	{
+		"geometry" : {
+			"coordinates" : [
+				19.05917,
+				47.49063
+			],
+			"type" : "Point"
+		},
+		"type" : "Feature",
+		"properties" : {
+			"URL" : "http://www.hummusbar.hu/eng/our-restaurants/",
+			"marker-symbol" : "restaurant",
+			"name" : "Hummus Bar",
+			"address" : "Kecskeméti str. 1",
+			"note" : "A popular chain of hummus restaurants around Budapest. Friendly staff and good food for affordable prices. All restaurants more or less share the same menu but some are vegetarian-only. My recommendation: Shakshuka (with mergez sausage if that's your thing)"
 		}
 	},
 	 {
@@ -234,7 +265,8 @@
 			"URL" : "http://bitehungary.com",
 			"marker-symbol" : "bakery",
 			"marker-color" : "#ffba00",
-			"name" : "Bite"
+			"name" : "Bite",
+			"note" : "A large selection of sweet and savory bakery products. Ideal for a quick bite. My recommendation: the cheese pretzel (sajtós perec)"
 		}
 	},
 	{
@@ -250,22 +282,8 @@
 			"URL" : "http://www.ladelizia.hu/eng/",
 			"marker-symbol" : "bakery",
 			"marker-color" : "#ffba00",
-			"name" : "La Delizia"
-		}
-	},
-	{
-		"geometry" : {
-			"coordinates" : [
-				19.0472030639648,
-				47.5048232042367
-			],
-			"type" : "Point"
-		},
-		"type" : "Feature",
-		"properties" : {
-			"URL" : "http://www.mannatural.hu/etlap/",
-			"marker-symbol" : "restaurant",
-			"name" : "Mannatural"
+			"name" : "La Delizia",
+			"note" : "Home baked cookies in a relaxing atmosphere. Large selection of home baked products and friendly staff."
 		}
 	},
 	{
@@ -279,7 +297,8 @@
 		"type" : "Feature",
 		"properties" : {
 			"marker-symbol" : "restaurant",
-			"name" : "Ganga Vega Café"
+			"name" : "Ganga Vega Café",
+			"note" : "Vegetarian restaurant with tasty indian dishes. Very cheap."
 		}
 	},
 	{
@@ -295,7 +314,8 @@
 			"URL" : "http://www.sugarshop.hu/index-en.html",
 			"marker-symbol" : "bakery",
 			"marker-color" : "#ffba00",
-			"name" : "Sugar!"
+			"name" : "Sugar!",
+			"note" : "Both a candy shop and a novelty bakery. Not the best bakery in Budapest but definitely the most unique-looking. If you're a fan of Jelly Beans, you can buy them by the color."
 		}
 	},
 	{
@@ -310,7 +330,8 @@
 		"properties" : {
 			"URL" : "http://hadikkavehaz.blog.hu/",
 			"marker-symbol" : "restaurant",
-			"name" : "Hadik"
+			"name" : "Hadik",
+			"note" : "Old café where Hungarian intellectuals used to meet. Small menu but good food. Not too far from the Gellért baths."
 		}
 	},
 	{
@@ -341,7 +362,10 @@
 		"properties" : {
 			"URL" : "https://www.facebook.com/castrobistro",
 			"marker-symbol" : "restaurant",
-			"name" : "Castro"
+			"name" : "Castro",
+			"address" : "Madách Imre tér 3",
+			"phone" : "00 36 1 215 0184",
+			"note" : "A good restaurant with cheap daily offerings close to the center. Note that they only accept cash. My recommendation: Rakot Krumpli with sour cream and sour cucumbers. A classic Hungarian dish made of layers of baked potatoes, spicy paprika sausage and eggs."
 		}
 	},
 	{
@@ -356,7 +380,10 @@
 		"properties" : {
 			"URL" : "http://400bar.hu/etlap/",
 			"marker-symbol" : "bar",
-			"name" : 400
+			"name" : "400",
+			"address" : "Kazinczy utca 52/b",
+			"phone" : "00 36 20 776 0765",
+			"note" : "This bar in the jewish district also has a very good menu. My recommendation: Go with a friend (or three) and try the Serbian meat platter (huge portion)."
 		}
 	},
 	{
@@ -570,7 +597,7 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 			"name" : "Nagy Csarnok / Great Market Hall",
 			"marker-symbol" : "town-hall",
 			"address" : "Vámház körút 1",
-			"note" : "It is a nice place if you are looking for Hungarian food and drinks. If you're hungry, you'll find small restaurants on the top floor."
+			"note" : "It is a nice place if you are looking for Hungarian food and drinks. If you're hungry, you'll find small restaurants on the top floor. Closed on Sundays and only opens till 3pm on Saturdays (wekkday opening hours are 6am - 5pm)"
 		}
 	},
 	{
