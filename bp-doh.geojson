@@ -10,7 +10,6 @@
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"URL" : "http://www.7seasonsapartments.com/",
 			"marker-symbol" : "lodging",
@@ -21,6 +20,7 @@
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.0566176176071,
