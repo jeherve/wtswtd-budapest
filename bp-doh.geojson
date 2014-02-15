@@ -371,23 +371,6 @@
 		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
-				19.0379977226257,
-				47.5291840834026
-			],
-			"type" : "Point"
-		},
-		"properties" : {
-			"URL" : "http://zazzi.hu/index.php/en/",
-			"marker-symbol" : "bakery",
-			"marker-color" : "#ffba00",
-			"name" : "Zazzi",
-			"note" : "Good macarons, and great pastries"
-		}
-	},
-	{
-		"type" : "Feature",
-		"geometry" : {
-			"coordinates" : [
 				19.0572613477707,
 				47.4975007747002
 			],
