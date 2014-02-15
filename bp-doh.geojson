@@ -4,6 +4,22 @@
 	{
 		"geometry" : {
 			"coordinates" : [
+				19.05672,
+				47.49851
+			],
+			"type" : "Point"
+		},
+		"type" : "Feature",
+		"properties" : {
+			"URL" : "http://www.7seasonsapartments.com/",
+			"marker-symbol" : "lodging",
+			"marker-color" : "#f1831e",
+			"name" : "7Seasons apartments"
+		}
+	},
+	{
+		"geometry" : {
+			"coordinates" : [
 				19.0566176176071,
 				47.49712203181
 			],
