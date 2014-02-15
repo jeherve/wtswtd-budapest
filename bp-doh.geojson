@@ -2,6 +2,7 @@
 	"type" : "FeatureCollection",
 	"features" : [
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.05672,
@@ -27,7 +28,6 @@
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"URL" : "http://www.mlinar.hr/en/madarska/",
 			"marker-symbol" : "bakery",
@@ -37,6 +37,7 @@
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.0542358160019,
@@ -44,7 +45,6 @@
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"URL" : "http://www.cserpestejivo.hu/index-en.html",
 			"marker-symbol" : "bakery",
@@ -54,6 +54,7 @@
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.0611290931702,
@@ -61,7 +62,6 @@
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"URL" : "http://ringcafe.hu/",
 			"marker-symbol" : "restaurant",
@@ -72,6 +72,7 @@
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.0618801116943,
@@ -79,7 +80,6 @@
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"URL" : "https://www.facebook.com/thebigfish.hu",
 			"marker-symbol" : "restaurant",
@@ -89,6 +89,7 @@
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.06131,
@@ -96,7 +97,6 @@
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"URL" : "https://kolevesvendeglo.hu/",
 			"marker-symbol" : "restaurant",
@@ -106,6 +106,7 @@
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.05942,
@@ -113,7 +114,6 @@
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"URL" : "http://spilerbp.hu/",
 			"marker-symbol" : "fast-food",
@@ -125,6 +125,7 @@
 		}
 	},
 	{
+		"type" : "Feature",
 		 "geometry" : {
 			"coordinates" : [
 				19.05927,
@@ -132,7 +133,6 @@
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"URL" : "https://www.facebook.com/budapestbagel",
 			"marker-symbol" : "restaurant",
@@ -144,6 +144,7 @@
 		}
 	},
 	{
+		"type" : "Feature",
 		 "geometry" : {
 			"coordinates" : [
 				19.0500891208649,
@@ -151,7 +152,6 @@
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"URL" : "https://www.facebook.com/thedonutlibrary",
 			"marker-symbol" : "bakery",
@@ -161,6 +161,7 @@
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.0485012531281,
@@ -168,7 +169,6 @@
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"URL" : "https://www.facebook.com/cafepaninibudapest",
 			"marker-symbol" : "restaurant",
@@ -179,6 +179,7 @@
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.0525835752487,
@@ -186,7 +187,6 @@
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"URL" : "https://www.facebook.com/Kispiac",
 			"marker-symbol" : "restaurant",
@@ -196,6 +196,7 @@
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.0622341632843,
@@ -203,7 +204,6 @@
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"URL" : "http://parperckrumpli.hu/etlap/index.html",
 			"marker-symbol" : "fast-food",
@@ -213,6 +213,7 @@
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.05454,
@@ -220,7 +221,6 @@
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"URL" : "http://www.hummusbar.hu/eng/our-restaurants/",
 			"marker-symbol" : "restaurant",
@@ -231,6 +231,7 @@
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.06185,
@@ -238,7 +239,6 @@
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"URL" : "http://www.hummusbar.hu/eng/our-restaurants/",
 			"marker-symbol" : "restaurant",
@@ -249,6 +249,7 @@
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.05917,
@@ -256,7 +257,6 @@
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"URL" : "http://www.hummusbar.hu/eng/our-restaurants/",
 			"marker-symbol" : "restaurant",
@@ -267,6 +267,7 @@
 		}
 	},
 	 {
+	 	"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.0542411804199,
@@ -274,7 +275,6 @@
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"URL" : "http://www.dionysos.hu/index.php/en/menu",
 			"marker-symbol" : "restaurant",
@@ -284,6 +284,7 @@
 		}
 	},
 	{
+		"type" : "Feature",
 		 "geometry" : {
 			"coordinates" : [
 				19.0566873550415,
@@ -291,7 +292,6 @@
 			],
 			"type" : "Point"
 		 },
-		"type" : "Feature",
 		"properties" : {
 			"URL" : "http://bitehungary.com",
 			"marker-symbol" : "bakery",
@@ -301,6 +301,7 @@
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.0593910217285,
@@ -308,7 +309,6 @@
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"URL" : "http://www.ladelizia.hu/eng/",
 			"marker-symbol" : "bakery",
@@ -318,6 +318,7 @@
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.0552121400833,
@@ -325,7 +326,6 @@
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"marker-symbol" : "restaurant",
 			"marker-color" : "#4cb420",
@@ -334,6 +334,7 @@
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.0608769655228,
@@ -341,7 +342,6 @@
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"URL" : "http://www.sugarshop.hu/index-en.html",
 			"marker-symbol" : "bakery",
@@ -351,6 +351,7 @@
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.0510332584381,
@@ -358,7 +359,6 @@
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"URL" : "http://hadikkavehaz.blog.hu/",
 			"marker-symbol" : "restaurant",
@@ -368,6 +368,7 @@
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.0379977226257,
@@ -375,7 +376,6 @@
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"URL" : "http://zazzi.hu/index.php/en/",
 			"marker-symbol" : "bakery",
@@ -385,6 +385,7 @@
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.0572613477707,
@@ -392,7 +393,6 @@
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"URL" : "https://www.facebook.com/castrobistro",
 			"marker-symbol" : "restaurant",
@@ -404,6 +404,7 @@
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.0605497360229,
@@ -411,7 +412,6 @@
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"URL" : "http://400bar.hu/etlap/",
 			"marker-symbol" : "bar",
@@ -423,6 +423,7 @@
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.0633821487427,
@@ -430,7 +431,6 @@
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"URL" : "http://www.szimpla.hu/en",
 			"marker-symbol" : "bar",
@@ -441,6 +441,7 @@
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.0584146976471,
@@ -448,7 +449,6 @@
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"URL" : "http://instant.co.hu/en",
 			"marker-symbol" : "bar",
@@ -459,6 +459,7 @@
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.05160,
@@ -466,7 +467,6 @@
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"URL" : "http://www.akvariumklub.hu/?lang=en",
 			"marker-symbol" : "bar",
@@ -476,6 +476,7 @@
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.05551,
@@ -483,7 +484,6 @@
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"URL" : "http://www.ankerklub.hu/",
 			"marker-symbol" : "bar",
@@ -494,6 +494,7 @@
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.06486,
@@ -501,7 +502,6 @@
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"URL" : "http://www.fogashaz.hu/",
 			"marker-symbol" : "bar",
@@ -512,6 +512,7 @@
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.0637898445129,
@@ -519,7 +520,6 @@
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"URL" : "http://www.hellobabybar.hu/",
 			"marker-symbol" : "bar",
@@ -528,6 +528,7 @@
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.0690791606903,
@@ -535,7 +536,6 @@
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"URL" : "http://corvinteto.hu/en/programs",
 			"marker-symbol" : "music",
@@ -546,6 +546,7 @@
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.06273,
@@ -553,7 +554,6 @@
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"URL" : "http://www.a38.hu/en/",
 			"marker-symbol" : "music",
@@ -564,6 +564,7 @@
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.0570735931396,
@@ -571,7 +572,6 @@
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"marker-symbol" : "rail",
 			"marker-color" : "#2ea2cc",
@@ -581,6 +581,7 @@
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.2622947692871,
@@ -588,7 +589,6 @@
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"marker-symbol" : "airport",
 			"marker-color" : "#2ea2cc",
@@ -596,6 +596,7 @@
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.0524923801422,
@@ -603,7 +604,6 @@
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"marker-symbol" : "swimming",
 			"marker-color" : "#78c8e6",
@@ -613,6 +613,7 @@
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.0824151039124,
@@ -620,7 +621,6 @@
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"marker-symbol" : "swimming",
 			"marker-color" : "#78c8e6",
@@ -631,6 +631,7 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.0584361553192,
@@ -638,7 +639,6 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"name" : "Nagy Csarnok / Great Market Hall",
 			"marker-symbol" : "town-hall",
@@ -648,6 +648,7 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.04675,
@@ -655,7 +656,6 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"name" : "Hungarian Parliament Building",
 			"marker-symbol" : "monument",
@@ -664,6 +664,7 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.03896,
@@ -671,7 +672,6 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"name" : "Batthyány tér",
 			"marker-symbol" : "camera",
@@ -681,6 +681,7 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.04013,
@@ -688,7 +689,6 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"name" : "Clark Ádám Square",
 			"marker-symbol" : "camera",
@@ -698,6 +698,7 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.03405,
@@ -705,7 +706,6 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"name" : "Fisherman's Bastion",
 			"URL" : "http://fishermansbastion.com/",
@@ -716,6 +716,7 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.07797,
@@ -723,7 +724,6 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"name" : "Heroes square",
 			"marker-symbol" : "monument",
@@ -733,6 +733,7 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.05399,
@@ -740,7 +741,6 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"name" : "Saint Stephen's Basilica",
 			"marker-symbol" : "religious-christian",
@@ -750,6 +750,7 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.06006,
@@ -757,7 +758,6 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"name" : "Dohány Street Synagogue",
 			"URL" : "http://en.wikipedia.org/wiki/Doh%C3%A1ny_Street_Synagogue",
@@ -768,6 +768,7 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.04343,
@@ -775,7 +776,6 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"name" : "Nice point of view over the river and the Parliament",
 			"marker-symbol" : "camera",
@@ -785,6 +785,7 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.04401,
@@ -792,7 +793,6 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"name" : "Margaret Island",
 			"marker-symbol" : "pitch",
@@ -802,6 +802,7 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.06540,
@@ -809,7 +810,6 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"name" : "Terror Háza Múzeum",
 			"URL" : "http://terrorhaza.hu",
@@ -820,6 +820,7 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.06183,
@@ -827,7 +828,6 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"name" : "Hungarian National museum",
 			"URL" : "http://hnm.hu",
@@ -838,6 +838,7 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.04624,
@@ -845,7 +846,6 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"name" : "Citadella",
 			"URL" : "http://www.citadella.hu",
@@ -856,6 +856,7 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.04778,
@@ -863,7 +864,6 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"name" : "Nice point of view over the Danube and the Castle",
 			"marker-symbol" : "camera",
@@ -873,6 +873,7 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.07085,
@@ -880,7 +881,6 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"name" : "National Theatre",
 			"URL" : "http://nemzetiszinhaz.hu",
@@ -890,6 +890,7 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 		}
 	},
 	{
+		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
 				19.05139,
@@ -897,7 +898,6 @@ Prefer to go there in the afternoon, around 5PM, so that you experience bathing 
 			],
 			"type" : "Point"
 		},
-		"type" : "Feature",
 		"properties" : {
 			"name" : "Embassy of the United States",
 			"marker-symbol" : "embassy",
