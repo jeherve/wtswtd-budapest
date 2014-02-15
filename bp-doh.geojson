@@ -47,6 +47,7 @@
 		"properties" : {
 			"URL" : "http://ringcafe.hu/",
 			"marker-symbol" : "restaurant",
+			"marker-color" : "#4cb420",
 			"name" : "Ring Café",
 			"address" : "Andrássy út 38",
 			"note" : "Great burgers"
@@ -64,6 +65,7 @@
 		"properties" : {
 			"URL" : "https://www.facebook.com/thebigfish.hu",
 			"marker-symbol" : "restaurant",
+			"marker-color" : "#4cb420",
 			"name" : "Big Fish",
 			"note" : "Seafood restaurant with high quality products. Pricy."
 		}
@@ -80,6 +82,7 @@
 		"properties" : {
 			"URL" : "https://kolevesvendeglo.hu/",
 			"marker-symbol" : "restaurant",
+			"marker-color" : "#4cb420",
 			"name" : "Kőleves Vendéglő",
 			"address" : "Kazinczy utca 37-41"
 		}
@@ -96,6 +99,7 @@
 		"properties" : {
 			"URL" : "http://spilerbp.hu/",
 			"marker-symbol" : "fast-food",
+			"marker-color" : "#4cb420",
 			"name" : "Spíler BistroPub",
 			"address" : "Gozsdu udvar",
 			"note" : "Great burgers. Booking only from Sun to Wed.",
@@ -114,6 +118,7 @@
 		"properties" : {
 			"URL" : "https://www.facebook.com/budapestbagel",
 			"marker-symbol" : "restaurant",
+			"marker-color" : "#4cb420",
 			"name" : "Budapest Bagel",
 			"address" : "Kecskeméti u. 3",
 			"phone" : "00 36 30 633 3608",
@@ -149,6 +154,7 @@
 		"properties" : {
 			"URL" : "https://www.facebook.com/cafepaninibudapest",
 			"marker-symbol" : "restaurant",
+			"marker-color" : "#4cb420",
 			"name" : "Panini Café",
 			"address" : "Radnóti Miklós u. 45",
 			"note" : "A small restaurant on the banks of the Danube. Ideal for a quick toasted sandwich or a nice brunch. They have vegan meals."
@@ -166,6 +172,7 @@
 		"properties" : {
 			"URL" : "https://www.facebook.com/Kispiac",
 			"marker-symbol" : "restaurant",
+			"marker-color" : "#4cb420",
 			"name" : "Kispiac Bistro",
 			"note" : "Located next to the market on Hold utca. Very good meat selection. Friendly mom-and-pop atmosphere but very small."
 		}
@@ -182,6 +189,7 @@
 		"properties" : {
 			"URL" : "http://parperckrumpli.hu/etlap/index.html",
 			"marker-symbol" : "fast-food",
+			"marker-color" : "#4cb420",
 			"name" : "Pár Perc Krumpli",
 			"note" : "The restaurant is almost litteraly a hole in the wall but don't let it fool you. Its Belgian-style French-fries are one of the best in Budapest. Sadly, the rest of its offerings (like the burgers) isn't quite as good."
 		}
@@ -198,6 +206,7 @@
 		"properties" : {
 			"URL" : "http://www.hummusbar.hu/eng/our-restaurants/",
 			"marker-symbol" : "restaurant",
+			"marker-color" : "#4cb420",
 			"name" : "Hummus Bar",
 			"address" : "Alkotmány u. 20",
 			"note" : "A popular chain of hummus restaurants around Budapest. Friendly staff and good food for affordable prices. All restaurants more or less share the same menu but some are vegetarian-only. My recommendation: Shakshuka (with mergez sausage if that's your thing)"
@@ -215,6 +224,7 @@
 		"properties" : {
 			"URL" : "http://www.hummusbar.hu/eng/our-restaurants/",
 			"marker-symbol" : "restaurant",
+			"marker-color" : "#4cb420",
 			"name" : "Hummus Bar",
 			"address" : "Wesselényi-Síp str. corner",
 			"note" : "A popular chain of hummus restaurants around Budapest. Friendly staff and good food for affordable prices. All restaurants more or less share the same menu but some are vegetarian-only. My recommendation: Shakshuka (with mergez sausage if that's your thing)"
@@ -232,6 +242,7 @@
 		"properties" : {
 			"URL" : "http://www.hummusbar.hu/eng/our-restaurants/",
 			"marker-symbol" : "restaurant",
+			"marker-color" : "#4cb420",
 			"name" : "Hummus Bar",
 			"address" : "Kecskeméti str. 1",
 			"note" : "A popular chain of hummus restaurants around Budapest. Friendly staff and good food for affordable prices. All restaurants more or less share the same menu but some are vegetarian-only. My recommendation: Shakshuka (with mergez sausage if that's your thing)"
@@ -249,7 +260,9 @@
 		"properties" : {
 			"URL" : "http://www.dionysos.hu/index.php/en/menu",
 			"marker-symbol" : "restaurant",
-			"name" : "Dionysos"
+			"marker-color" : "#4cb420",
+			"name" : "Dionysos",
+			"note" : "Greek restaurant"
 		}
 	},
 	{
@@ -297,6 +310,7 @@
 		"type" : "Feature",
 		"properties" : {
 			"marker-symbol" : "restaurant",
+			"marker-color" : "#4cb420",
 			"name" : "Ganga Vega Café",
 			"note" : "Vegetarian restaurant with tasty indian dishes. Very cheap."
 		}
@@ -330,6 +344,7 @@
 		"properties" : {
 			"URL" : "http://hadikkavehaz.blog.hu/",
 			"marker-symbol" : "restaurant",
+			"marker-color" : "#4cb420",
 			"name" : "Hadik",
 			"note" : "Old café where Hungarian intellectuals used to meet. Small menu but good food. Not too far from the Gellért baths."
 		}
@@ -347,7 +362,8 @@
 			"URL" : "http://zazzi.hu/index.php/en/",
 			"marker-symbol" : "bakery",
 			"marker-color" : "#ffba00",
-			"name" : "Zazzi"
+			"name" : "Zazzi",
+			"note" : "Good macarons, and great pastries"
 		}
 	},
 	{
@@ -362,6 +378,7 @@
 		"properties" : {
 			"URL" : "https://www.facebook.com/castrobistro",
 			"marker-symbol" : "restaurant",
+			"marker-color" : "#4cb420",
 			"name" : "Castro",
 			"address" : "Madách Imre tér 3",
 			"phone" : "00 36 1 215 0184",
