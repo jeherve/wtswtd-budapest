@@ -23,6 +23,40 @@
 		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
+				19.05666,
+				47.50591
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "http://conf.writethedocs.org/eu/2014/index.html",
+			"marker-symbol" : "library",
+			"marker-color" : "#f1831e",
+			"name" : "Write The Docs Conference",
+			"address" : "Nagymező utca 54-56"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.06170,
+				47.50308
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "http://budapest.lofficecoworking.com/index.php?language=en",
+			"marker-symbol" : "library",
+			"marker-color" : "#f1831e",
+			"name" : "Coworking space",
+			"address" : "Paulay Ede Utca 55"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
 				19.0566176176071,
 				47.49712203181
 			],
