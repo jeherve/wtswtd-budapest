@@ -24,14 +24,23 @@ function load() {
 			// Generate the pop ups
 			markerLayer.eachLayer(function(layer) {
 
-			// here you call `bindPopup` with a string of HTML you create - the feature
-			// properties declared above are available under `layer.feature.properties`
+				// here you call `bindPopup` with a string of HTML you create - the feature
+				// properties declared above are available under `layer.feature.properties`
+				var content = '<h1>' + layer.feature.properties.name + '<\/h1>';
+				if (typeof layer.feature.properties.URL != 'undefined') {
+					content = '<h1><a target="_blank" href="' + layer.feature.properties.URL + '">' + layer.feature.properties.name + '<\/a><\/h1>';
+				}
+				if (typeof layer.feature.properties.address != 'undefined') {
+					content += '<h2>' + layer.feature.properties.address + '<\/h2>';
+				}
+				if (typeof layer.feature.properties.note != 'undefined') {
+					content += '<p class="note">' + layer.feature.properties.note + '<\/p>';
+				}
+				if (typeof layer.feature.properties.phone != 'undefined') {
+					content += '<p class="phone">'+ layer.feature.properties.phone + '<\/p>';
+				}
 
-			var content = '<h1><a target="_blank" href="' + layer.feature.properties.URL + '">' + layer.feature.properties.name + '</a><\/h1>' +
-			'<h2>' + layer.feature.properties.address + '<\/h2>' + 
-			'<p class="note">' + layer.feature.properties.note + '</p>' +
-			'<p class="phone">'+ layer.feature.properties.phone + '</p>';
-			layer.bindPopup(content);
+				layer.bindPopup(content);
 
 			});
 		}
