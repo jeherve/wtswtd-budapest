@@ -769,6 +769,70 @@
 		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
+				19.06612,
+				47.50326
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"marker-symbol" : "cafe",
+			"marker-color" : "#FFB300",
+			"name" : "Starbucks",
+			"address" : "Erzsébet körút 53"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.05339,
+				47.50001
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"marker-symbol" : "cafe",
+			"marker-color" : "#FFB300",
+			"name" : "Starbucks",
+			"address" : "Hercegprímás utca 7"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.0528351,
+				47.5003404
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"marker-symbol" : "cafe",
+			"marker-color" : "#FFB300",
+			"name" : "California Coffee Company",
+			"address" : "Szent István tér 4"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.05977,
+				47.50263
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"marker-symbol" : "cafe",
+			"marker-color" : "#FFB300",
+			"name" : "Művész Kávéház",
+			"address" : "Andrássy út 29"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
 				19.0570735931396,
 				47.5105050391537
 			],
