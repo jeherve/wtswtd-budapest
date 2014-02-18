@@ -555,6 +555,39 @@
 		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
+				19.05936,
+				47.51391
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "http://cakes.hu",
+			"marker-symbol" : "bakery",
+			"marker-color" : "#ffba00",
+			"name" : "Reka's Cupcake Factory"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.05055,
+				47.49898
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "http://cakeshop.hu",
+			"marker-symbol" : "bakery",
+			"marker-color" : "#ffba00",
+			"name" : "Cake Shop",
+			"address" : "József Attila u. 12"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
 				19.0510332584381,
 				47.47922195643
 			],
@@ -795,6 +828,23 @@
 			"marker-color" : "#FFB300",
 			"name" : "Starbucks",
 			"address" : "Hercegprímás utca 7"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.06061,
+				47.49675
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"marker-symbol" : "cafe",
+			"marker-color" : "#FFB300",
+			"name" : "Solinfo Cafe",
+			"address" : "Wesselényi u. 6",
+			"note" : "Coffee and breakfast heaven for all the lapm and design lovers"
 		}
 	},
 	{
