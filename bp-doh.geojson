@@ -818,6 +818,22 @@
 		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
+				19.05935,
+				47.50052
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"marker-symbol" : "cafe",
+			"marker-color" : "#FFB300",
+			"name" : "Sierra coffee",
+			"address" : "Székely Mihály utca 4-6"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
 				19.05339,
 				47.50001
 			],
