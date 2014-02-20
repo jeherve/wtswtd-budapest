@@ -175,11 +175,29 @@
 			"type" : "Point"
 		},
 		"properties" : {
-			"URL" : "https://kolevesvendeglo.hu/",
+			"URL" : "http://kolevesvendeglo.hu/",
 			"marker-symbol" : "restaurant",
 			"marker-color" : "#4cb420",
 			"name" : "Kőleves Vendéglő",
 			"address" : "Kazinczy utca 37-41"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.06172,
+				47.50385
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "http://www.klasszetterem.hu/index.php?lang=en",
+			"marker-symbol" : "restaurant",
+			"marker-color" : "#4cb420",
+			"name" : "Klassz",
+			"address" : "Andrássy utca 41",
+			"note" : "Good Hungarian food, a bit pricey, but doesn't accept bookings"
 		}
 	},
 	{
