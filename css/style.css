@@ -23,3 +23,30 @@ body { margin:0; padding:0; }
 #geolocate:hover {
     background: #ECF5FA;
 }
+
+#map-ui {
+	background: #fff;
+	position: absolute;
+	top: 40px;
+	right: 0;
+	width: 100px;
+	margin-left: -80px;
+	z-index: 1000;
+	font: 13px/18px;
+	text-align: center;
+	color: #3C4E5A;
+	display: block;
+}
+
+#map-ui ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+#map-ui ul li {
+	border-top: 1px solid #BBB;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	padding: 10px 0;
+}
