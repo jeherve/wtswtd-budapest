@@ -162,7 +162,7 @@
 			"marker-symbol" : "restaurant",
 			"marker-color" : "#4cb420",
 			"name" : "Big Fish",
-			"note" : "Seafood restaurant with high quality products. Pricy."
+			"note" : "Seafood restaurant with high quality products. Pricey."
 		}
 	},
 	{
@@ -179,7 +179,45 @@
 			"marker-symbol" : "restaurant",
 			"marker-color" : "#4cb420",
 			"name" : "Kőleves Vendéglő",
-			"address" : "Kazinczy utca 37-41"
+			"address" : "Kazinczy utca 37-41",
+			"phone" : "0036209364368"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.06078,
+				47.50284
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "http://ketszerecsen.hu/?lang=en",
+			"marker-symbol" : "restaurant",
+			"marker-color" : "#4cb420",
+			"name" : "Két Szerecsen",
+			"address" : "Nagymező utca 14",
+			"phone" : "0036013431984"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.05695,
+				47.50383
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://www.facebook.com/mostbisztro",
+			"marker-symbol" : "restaurant",
+			"marker-color" : "#4cb420",
+			"name" : "Most",
+			"address" : "Zichy Jenő utca 17",
+			"phone" : "00336702483322",
+			"note" : "Bar and restaurant"
 		}
 	},
 	{
@@ -554,6 +592,98 @@
 		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
+				19.06166,
+				47.50270
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://www.facebook.com/bordobisztro",
+			"marker-symbol" : "bakery",
+			"marker-color" : "#ffba00",
+			"name" : "Bordó Bisztró",
+			"address" : "Nagymező utca 3",
+			"note" : "Breakfast place, restaurant, bar. Good brunch, open from 10AM"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.06357,
+				47.49677
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://www.facebook.com/El.Rapido.Grill.Tequila",
+			"marker-symbol" : "restaurant",
+			"marker-color" : "#4cb420",
+			"name" : "El Rapido",
+			"address" : "Kazinczy utca 10",
+			"note" : "Good Mexican"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.06181,
+				47.50661
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "http://www.arriba.hu/en/",
+			"marker-symbol" : "restaurant",
+			"marker-color" : "#4cb420",
+			"name" : "Arriba Taqueria",
+			"address" : "Terez Korut 25",
+			"note" : "Good Mexican"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.06372,
+				47.49668
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://www.facebook.com/pages/KisPar%C3%A1zs-Thai-leves-%C3%A9s-Wok-B%C3%A1r/313906873481",
+			"marker-symbol" : "restaurant",
+			"marker-color" : "#4cb420",
+			"name" : "Kis Parázs Thai resturant",
+			"address" : "Kazinczy utca 7",
+			"phone" : "0036705174550",
+			"note" : "Thai restaurant and Wok bar"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.06146,
+				47.49826
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://www.facebook.com/cirkuszbudapest",
+			"marker-symbol" : "restaurant",
+			"marker-color" : "#4cb420",
+			"name" : "Cirkusz",
+			"address" : "Dob utca 25",
+			"phone" : "0036017864959",
+			"note" : "Good meat, good prices"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
 				19.0510332584381,
 				47.47922195643
 			],
@@ -645,6 +775,310 @@
 		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
+				19.05672,
+				47.49851
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "http://www.godorklub.hu/",
+			"marker-symbol" : "bar",
+			"marker-color" : "#005684",
+			"name" : "Gödör Klub",
+			"address" : "Király u. 8-10",
+			"note" : "Live music, and nice bar"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.06091,
+				47.49937
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "http://www.mikativadarmulato.hu/",
+			"marker-symbol" : "bar",
+			"marker-color" : "#005684",
+			"name" : "Mika Tivadar Mulató",
+			"address" : "Kazinczy utca 47"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.06075,
+				47.49920
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://www.facebook.com/kocka.kazinczy48",
+			"marker-symbol" : "bar",
+			"marker-color" : "#005684",
+			"name" : "Kocka",
+			"address" : "Kazinczy utca 48",
+			"note" : "trendy, street food in front of it. 3 levels, restaurant, bar, club"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.06075,
+				47.49920
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://www.facebook.com/ellato.kert",
+			"marker-symbol" : "bar",
+			"marker-color" : "#005684",
+			"name" : "Ellato Kert & Taqueria",
+			"address" : "Kazinczy utca 48",
+			"note" : "Typical ruin pub"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.05983,
+				47.49891
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://www.facebook.com/lehuto.kezmuvessorozo/",
+			"marker-symbol" : "bar",
+			"marker-color" : "#005684",
+			"name" : "Léhűtő",
+			"address" : "Holló utca 12-14",
+			"note" : "Craft beer"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.06418,
+				47.49589
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://www.facebook.com/akirakat/",
+			"marker-symbol" : "bar",
+			"marker-color" : "#005684",
+			"name" : "Kirakat",
+			"address" : "Kazinczy utca 3",
+			"note" : "Nice place to sit and talk"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.0485724,
+				47.5003483
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "http://www.otkert.hu/",
+			"marker-symbol" : "bar",
+			"marker-color" : "#005684",
+			"name" : "Ötkert",
+			"address" : "Zrínyi utca 4",
+			"note" : "Fancy, pricey"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.05211,
+				47.50102
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://www.facebook.com/urimuribudapest",
+			"marker-symbol" : "bar",
+			"marker-color" : "#005684",
+			"name" : "Urimuri",
+			"address" : "Sas utca 15",
+			"note" : "Fancy, pricey"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.06632,
+				47.49014
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://www.facebook.com/pages/Trafik-klub/184545028228857",
+			"marker-symbol" : "bar",
+			"marker-color" : "#005684",
+			"name" : "Trafik klub",
+			"address" : "Mikszáth Kálmán tér 2",
+			"note" : "Fancy - downer floor of the Zappo Coffee shop"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.06674,
+				47.49788
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://www.facebook.com/doboz",
+			"marker-symbol" : "bar",
+			"marker-color" : "#005684",
+			"name" : "Doboz",
+			"address" : "Klauzál utca 10",
+			"note" : "Fancy"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.06914,
+				47.49612
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://www.facebook.com/jelenbisztro",
+			"marker-symbol" : "bar",
+			"marker-color" : "#005684",
+			"name" : "Jelen Bistro",
+			"address" : "Blaha Lujza tér 1",
+			"note" : "Nice place to sit and talk"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.05908,
+				47.50134
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://www.facebook.com/ankertbar",
+			"marker-symbol" : "bar",
+			"marker-color" : "#005684",
+			"name" : "Ankert",
+			"address" : "Paulay Ede u 33"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.06018,
+				47.49268
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://foursquare.com/v/csendes-vintage-bar--cafe/4b69bf00f964a52085b12be3",
+			"marker-symbol" : "bar",
+			"marker-color" : "#005684",
+			"name" : "Csendes",
+			"address" : "Ferenczy István utca 5",
+			"note" : "Vintage Bar & Café"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.05835,
+				47.49837
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://foursquare.com/v/hivatal-k%C3%A1v%C3%A9z%C3%B3/4c23af4bb7b8a5938a413be8",
+			"marker-symbol" : "bar",
+			"marker-color" : "#005684",
+			"name" : "Hivatal Kávézó",
+			"address" : "Madách Imre út 12",
+			"note" : "Trendy place"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.16380,
+				47.44720
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://foursquare.com/v/telep-art-bar-and-bistro/4dda90141838b8561d330b0e",
+			"marker-symbol" : "bar",
+			"marker-color" : "#005684",
+			"name" : "Telep Art Bar and Bistro",
+			"address" : "Madách Imre u. 8",
+			"note" : "Trendy place"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.16344,
+				47.44721
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://www.facebook.com/kozpontbudapest",
+			"marker-symbol" : "bar",
+			"marker-color" : "#005684",
+			"name" : "Központ",
+			"address" : "Madách Imre u. 5",
+			"note" : "Trendy place"
+		}
+	}
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.16347,
+				47.44733
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://www.facebook.com/pages/Keksz/268952226502652",
+			"marker-symbol" : "bar",
+			"marker-color" : "#005684",
+			"name" : "Keksz",
+			"address" : "Madách Imre u. 4",
+			"note" : "Nice to sit and talk"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
 				19.05160,
 				47.49802
 			],
@@ -726,6 +1160,40 @@
 			"marker-symbol" : "bar",
 			"marker-color" : "#005684",
 			"name" : "Hello Baby"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.05829,
+				47.49910
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://www.facebook.com/GozsduMano",
+			"marker-symbol" : "music",
+			"marker-color" : "#005684",
+			"name" : "Gozsdu Manó Klub",
+			"address" : "Kiraly utca 13"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.05829,
+				47.49910
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://www.facebook.com/kolorprojekt",
+			"marker-symbol" : "music",
+			"marker-color" : "#005684",
+			"name" : "Kolor",
+			"address" : "Kiraly utca 13"
 		}
 	},
 	{
@@ -843,6 +1311,40 @@
 			"marker-color" : "#FFB300",
 			"name" : "California Coffee Company",
 			"address" : "Szent István tér 4"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.06056,
+				47.49777
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://foursquare.com/v/blue-bird-cafe/52054dd511d2778ebd4f1cf3",
+			"marker-symbol" : "cafe",
+			"marker-color" : "#FFB300",
+			"name" : "Blue Bird Cafe",
+			"address" : "Dob u. 16"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.05940,
+				47.49862
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://foursquare.com/v/hq-caf%C3%A9/52ec034e498edc7ca2926438",
+			"marker-symbol" : "cafe",
+			"marker-color" : "#FFB300",
+			"name" : "HQ Café",
+			"address" : "Madách Imre út 13-14"
 		}
 	},
 	{
