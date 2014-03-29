@@ -1,6 +1,7 @@
 // Init Map
-var map = L.mapbox.map('map', 'examples.map-h67hf2ic')
-  .setView([47.50089, 19.06324], 15);
+var map = L.mapbox.map('map')
+    .setView([47.50089, 19.06324], 15)
+    .addLayer(L.mapbox.tileLayer('examples.map-h67hf2ic'));
 
 // Get data from github
 var url = 'https://api.github.com/repos/jeherve/wtswtd-budapest/contents/bp-doh.geojson?ref=bp-doh';
@@ -18,8 +19,7 @@ function load() {
 		url: url,
 		success: function(geojson) {
 			// On success add fetched data to the map.
-			//L.mapbox.featureLayer(geojson).addTo(map);
-			var markerLayer = L.mapbox.markerLayer(geojson).addTo(map);
+			var markerLayer = L.mapbox.markerLayer(geojson);
 
 			// Generate the pop ups
 			markerLayer.eachLayer(function(layer) {
@@ -42,6 +42,12 @@ function load() {
 
 				layer.bindPopup(content);
 			});
+
+			var clusterGroup = new L.MarkerClusterGroup();
+			markerLayer.eachLayer(function(layer) {
+				clusterGroup.addLayer(layer);
+			});
+			map.addLayer(clusterGroup);
 		}
 	});
 }
