@@ -5,7 +5,7 @@
 
 ### A list of things to do, and places to go in Budapest
 
-### [The Map](bp-doh.geojson)
+### [The Map](http://bud.jeremy.hu)
 
 ## License
 
