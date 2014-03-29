@@ -22,6 +22,23 @@
 		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
+				19.06154,
+				47.49678
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://foursquare.com/v/%C3%A0-table-wessel%C3%A9nyi/52de3f61498e470ccbfea24b",
+			"marker-symbol" : "bakery",
+			"marker-color" : "#ffba00",
+			"name" : "A table!",
+			"address" : "Wesselényi u. 9"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
 				19.0542358160019,
 				47.4971981430407
 			],
@@ -720,6 +737,42 @@
 		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
+				19.05784,
+				47.48872
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "http://halkakas.hu/",
+			"marker-symbol" : "restaurant",
+			"marker-color" : "#4cb420",
+			"name" : "Halkakas halbisztró",
+			"address" : "Veres Pálné u. 33",
+			"note" : "seafood, fish"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.06159,
+				47.48874
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "http://www.patanegra.hu/index.php?id=10&lang=hu&etterem=pest",
+			"marker-symbol" : "restaurant",
+			"marker-color" : "#4cb420",
+			"name" : "Pata Negra, Pest",
+			"address" : "Kálvin tér 8",
+			"note" : "Tapas restaurant"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
 				19.0605497360229,
 				47.4994089449302
 			],
@@ -1025,8 +1078,8 @@
 		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
-				19.16380,
-				47.44720
+				19.05799,
+				47.49819
 			],
 			"type" : "Point"
 		},
@@ -1043,8 +1096,8 @@
 		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
-				19.16344,
-				47.44721
+				19.05790,
+				47.49779
 			],
 			"type" : "Point"
 		},
@@ -1061,8 +1114,26 @@
 		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
-				19.16347,
-				47.44733
+				19.05668,
+				47.50587
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://www.facebook.com/apacukavariete",
+			"marker-symbol" : "bar",
+			"marker-color" : "#005684",
+			"name" : "Apacuka Kávéház",
+			"address" : "Nagymező utca 54-56",
+			"note" : "Conference party"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.05758,
+				47.49801
 			],
 			"type" : "Point"
 		},
