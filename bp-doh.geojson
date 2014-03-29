@@ -1184,18 +1184,18 @@
 		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
-				19.05758,
-				47.49801
+				19.05710,
+				47.49758
 			],
 			"type" : "Point"
 		},
 		"properties" : {
 			"URL" : "https://www.facebook.com/pages/Keksz/268952226502652",
-			"marker-symbol" : "bar",
-			"marker-color" : "#005684",
+			"marker-symbol" : "bakery",
+			"marker-color" : "#ffba00",
 			"name" : "Keksz",
-			"address" : "Madách Imre u. 4",
-			"note" : "Nice to sit and talk"
+			"address" : "Madách Imre tér 4",
+			"note" : "British breakfast, toasts, sandwiches"
 		}
 	},
 	{
