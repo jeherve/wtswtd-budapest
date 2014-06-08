@@ -4,7 +4,7 @@ var map = L.mapbox.map('map')
     .addLayer(L.mapbox.tileLayer('examples.map-h67hf2ic'));
 
 // Get data from github
-var url = 'https://api.github.com/repos/jeherve/wtswtd-budapest/contents/bp-doh.geojson?ref=bp-doh';
+var url = 'https://api.github.com/repos/jeherve/wtswtd-budapest/contents/bp-doh.geojson?ref=master';
 
 function load() {
 	// Fetch just the contents of a .geojson file from GitHub by passing
