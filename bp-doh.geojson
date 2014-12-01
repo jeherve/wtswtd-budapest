@@ -112,6 +112,24 @@
 		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
+				19.0599215,
+				47.4980866
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://foursquare.com/v/2-spaghi/4f688421bb3dc78e0948c024",
+			"marker-symbol" : "restaurant",
+			"marker-color" : "#4cb420",
+			"name" : "2 Spaghi",
+			"address" : "Gozsdu udvar",
+			"note" : "Italian restaurant. Small portions, but good."
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
 				19.06062,
 				47.50482
 			],
@@ -144,6 +162,78 @@
 			"address" : "Október 6. u. 6",
 			"phone" : "00 36 70 333 2150",
 			"note" : "Great burgers"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.02940,
+				47.50888
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://foursquare.com/v/finom%C3%ADt%C3%B3-kantin-budapest/5120e248e4b0b9b40830ffef",
+			"marker-symbol" : "fast-food",
+			"marker-color" : "#4cb420",
+			"name" : "Finomító Kantin",
+			"address" : "Varsányi Irén u. 33",
+			"note" : "Good burgers"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.06602,
+				47.50491
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://foursquare.com/v/kerkyra-g%C3%B6r%C3%B6g-%C3%A9telb%C3%A1r/4eb7b9400aaf1abee0404a20",
+			"marker-symbol" : "fast-food",
+			"marker-color" : "#4cb420",
+			"name" : "Kerkyra Görög Ételbár",
+			"address" : "Eötvös u. 5.",
+			"note" : "Best gyros in town"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.05755,
+				47.49758
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://foursquare.com/v/pista-b%C3%A1/52ce9a98498e3394a99f539d",
+			"marker-symbol" : "fast-food",
+			"marker-color" : "#4cb420",
+			"name" : "Pista bá",
+			"address" : "Madách Imre út 1",
+			"note" : "Sandwiches, soups."
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.06732,
+				47.49775
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://foursquare.com/v/butchers-kitchen--a-hentes-konyh%C3%A1ja/52f6a623498e29de0e2d901c",
+			"marker-symbol" : "fast-food",
+			"marker-color" : "#4cb420",
+			"name" : "Butcher's Kitchen",
+			"address" : "Klauzál u. 11-13",
+			"note" : "Sandwiches, and meat of course."
 		}
 	},
 	{
@@ -259,8 +349,8 @@
 		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
-				19.05942,
-				47.49847
+				19.0590109,
+				47.4986515
 			],
 			"type" : "Point"
 		},
@@ -272,6 +362,44 @@
 			"address" : "Gozsdu udvar",
 			"note" : "Great burgers. Booking only from Sun to Wed.",
 			"phone" : "00 36 1 878 1320"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.0600261,
+				47.4989346
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://foursquare.com/v/zing-burger/51baf389498e11a3cf9101ce",
+			"marker-symbol" : "fast-food",
+			"marker-color" : "#4cb420",
+			"name" : "Zing Burger",
+			"address" : "Gozsdu udvar, 1075",
+			"note" : "Food truck, burger joint. Probably one of the best burgers in town.",
+			"phone" : "00 36 70 293 8746"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.06694,
+				47.49938
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://foursquare.com/v/w35-american--mexican-grill-bar/51719734e4b081c3bef3e14d",
+			"marker-symbol" : "fast-food",
+			"marker-color" : "#4cb420",
+			"name" : "W35 American & Mexican Grill Bar",
+			"address" : "Wesselényi u. 35.",
+			"note" : "Good burgers.",
+			"phone" : "00 36 70 293 8746"
 		}
 	},
 	{
@@ -609,6 +737,24 @@
 		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
+				19.05944,
+				47.50714
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://foursquare.com/v/la-delizia/4e85bcc8f790bd830b4496c3",
+			"marker-symbol" : "bakery",
+			"marker-color" : "#ffba00",
+			"name" : "La Delizia",
+			"address" : "Jókai u. 13",
+			"note" : "cupcakes, ice creams, macarons"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
 				19.06166,
 				47.50270
 			],
@@ -676,6 +822,25 @@
 			"address" : "Kazinczy utca 7",
 			"phone" : "0036705174550",
 			"note" : "Thai restaurant and Wok bar"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.06355,
+				47.49673
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://foursquare.com/v/bors-gasztrob%C3%A1r/501183cfe4b035d9f36407b7",
+			"marker-symbol" : "restaurant",
+			"marker-color" : "#4cb420",
+			"name" : "Bors Gasztrobár",
+			"address" : "Kazinczy utca 10",
+			"phone" : "0036709353263",
+			"note" : "Sandwiches, soups. Quick, cheap, and good."
 		}
 	},
 	{
@@ -792,6 +957,24 @@
 		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
+				19.06152,
+				47.50369
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://foursquare.com/v/360-bar/5374ddf2498e43fccfbc5e89",
+			"marker-symbol" : "bar",
+			"marker-color" : "#005684",
+			"name" : "360 Bar",
+			"address" : "Andrássy út 39",
+			"note" : "Bar wit a nice view over the city centre"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
 				19.0633821487427,
 				47.496871951275
 			],
@@ -892,6 +1075,24 @@
 			"marker-color" : "#005684",
 			"name" : "Ellato Kert & Taqueria",
 			"address" : "Kazinczy utca 48",
+			"note" : "Typical ruin pub"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
+				19.06149,
+				47.49893
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "https://foursquare.com/v/k%C5%91leves-kert/4bd22688462cb7139dbddb07",
+			"marker-symbol" : "bar",
+			"marker-color" : "#005684",
+			"name" : "Kőleves Kert",
+			"address" : "Kazinczy u. 37",
 			"note" : "Typical ruin pub"
 		}
 	},
@@ -1237,13 +1438,13 @@
 		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
-				19.05829,
-				47.49910
+				19.0592335,
+				47.4985496
 			],
 			"type" : "Point"
 		},
 		"properties" : {
-			"URL" : "https://www.facebook.com/GozsduMano",
+			"URL" : "https://foursquare.com/v/gozsdu-man%C3%B3-klub/4ea07f5a9a5229904cd1d9f7",
 			"marker-symbol" : "music",
 			"marker-color" : "#005684",
 			"name" : "Gozsdu Manó Klub",
