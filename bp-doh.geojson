@@ -168,6 +168,24 @@
 		"type" : "Feature",
 		"geometry" : {
 			"coordinates" : [
+				19.05768,
+				47.49990
+			],
+			"type" : "Point"
+		},
+		"properties" : {
+			"URL" : "http://www.sophieben.hu/",
+			"marker-symbol" : "fast-food",
+			"marker-color" : "#4cb420",
+			"name" : "Sophie & Ben bistro",
+			"address" : "Káldy Gyula ut 5",
+			"note" : "Good burgers."
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"coordinates" : [
 				19.02940,
 				47.50888
 			],
